@@ -331,7 +331,7 @@ This project is licensed under the MIT License.
 ## 👥 Contributors
 
 - Built for **Symbiosis Institute of Technology, Nagpur**
-- **DevOps Course** - 6th Semester
+- Krish Dahake , Karan Deshmukh
 
 ---
 
